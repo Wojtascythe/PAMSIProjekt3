@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1526914854 source:c:\users\wojta\desktop\pamsi\projekt3\pamsiprojekt3\main.cpp
+	<cstdlib>
+	<stdio.h>
+	<string>
+	<stdlib.h>
+	<vector>
+	<iostream>
+	<conio.h>
+	<time.h>
+
